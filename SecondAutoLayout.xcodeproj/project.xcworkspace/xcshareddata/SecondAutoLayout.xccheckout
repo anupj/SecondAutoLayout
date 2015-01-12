@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D04AB941-815F-4CBD-9F3E-64FDA4BA945D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SecondAutoLayout</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5BA945851C28EB7152F376A51E0D7ACE3E15EBFE</key>
+		<string>github.com:anupj/SecondAutoLayout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SecondAutoLayout.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5BA945851C28EB7152F376A51E0D7ACE3E15EBFE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:anupj/SecondAutoLayout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5BA945851C28EB7152F376A51E0D7ACE3E15EBFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5BA945851C28EB7152F376A51E0D7ACE3E15EBFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SecondAutoLayout</string>
+		</dict>
+	</array>
+</dict>
+</plist>
